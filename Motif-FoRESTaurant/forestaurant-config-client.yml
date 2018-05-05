@@ -18,3 +18,10 @@ user:
  password: gonnaneedwater
  servewith: notricks
 location: table1
+
+---
+user:
+ role: Apprentice
+ password: noobdaily
+ servewith: tryingto
+location: everywhere
