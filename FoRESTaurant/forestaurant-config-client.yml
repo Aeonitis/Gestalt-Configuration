@@ -1,0 +1,20 @@
+---
+user:
+  role: Chef
+  password: thisismyfingkitchen
+  servewith: lemon
+location: kitchen
+
+---
+user:
+ role: Customer
+ password: iamalwaysright
+ servewith: moreonions
+location: table42
+
+---
+user:
+ role: Taster
+ password: gonnaneedwater
+ servewith: notricks
+location: table1
