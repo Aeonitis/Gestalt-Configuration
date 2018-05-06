@@ -25,3 +25,9 @@ user:
  password: noobdaily
  servewith: tryingto
 location: everywhere
+
+---
+user:
+ role: Taster
+ password: nothingisperfectright
+ servewith: manyerrors
